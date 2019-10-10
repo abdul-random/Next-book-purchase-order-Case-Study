@@ -1,0 +1,6 @@
+This is the case study in which we have find our books selling business will survive or not.
+This this we will encounter some data cleaning and remaining is  model building and finding out the weather we will be alse to pay the
+load or not.
+PROBLEM STATMENT (Will we be able to both pay back our loan and afford our next book purchase order?)
+Used xgboost to build the model and predict the values will the customer will but the book or not by which we will come to know about the 
+sale.
